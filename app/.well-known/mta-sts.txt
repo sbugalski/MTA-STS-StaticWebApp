@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: *.mail.protection.outlook.com
 mx: SMTP.GOOGLE.COM
 max_age: 604800
